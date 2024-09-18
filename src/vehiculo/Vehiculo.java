@@ -2,7 +2,7 @@
 package vehiculo;
 
 //Mi objeto vehículo
-
+//Autor: José Bernedo
 public class Vehiculo {
     //Caracteristicas = Atributos = Variables
     private String hp;
